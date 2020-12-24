@@ -4,7 +4,7 @@
 
 // Replace with your network credentials
 const char *ssid     = "SLT-4G";
-const char *password = "FQLNMGHQ28G";
+const char *password = "ABCD";
 
 
 // Define NTP Client to get time
